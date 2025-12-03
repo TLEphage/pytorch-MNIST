@@ -62,7 +62,7 @@ def main():
             optimizer.step() # 根据上一步结果更新模型参数
         print("epoch", epoch, "accuracy: ", evaluate(test_data, net))
 
-    # 可视化前3个测试样本的预测结果
+    # 可视化前4个测试样本的预测结果
     for (n, (x, _)) in enumerate(test_data):
         if n > 3:
             break
