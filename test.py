@@ -1,5 +1,5 @@
 """
-本代码为最基础的训练代码，仅一份代码完成所有任务
+本代码为最基础的MNIST训练代码，使用全连接神经网络（FCN）训练
 参考视频: https://www.bilibili.com/video/BV1GC4y15736/?spm_id_from=333.337.search-card.all.click&vd_source=7156d8982eb4ed33bd3b29ca9f7322d9
 """
 
